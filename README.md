@@ -115,6 +115,16 @@ ai-customer-support-copilot/
 - Decision Consistency
 
 ---
+## Monitoring & Observability
+
+The system tracks operational metrics, including:
+- Request latency
+- Model confidence trends
+- Escalation rate
+- Priority distribution
+
+This enables safe AI deployment and ongoing model health monitoring.
+
 
 ## 🧠 Why This Project Matters
 This project demonstrates:
