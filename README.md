@@ -100,6 +100,13 @@ ai-customer-support-copilot/
 5. The agent receives a recommended response and action plan
 
 ---
+## Production Readiness Features
+
+- Confidence-based escalation to human agents
+- Structured logging with request traceability
+- Config-driven thresholds and business rules
+- Modular service-oriented architecture
+
 
 ## 📊 Evaluation Metrics
 - Classification Accuracy
