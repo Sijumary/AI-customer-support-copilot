@@ -125,6 +125,20 @@ The system tracks operational metrics, including:
 
 This enables safe AI deployment and ongoing model health monitoring.
 
+## API Endpoints
+
+### POST /copilot
+Runs AI classification, sentiment analysis, and priority assignment.
+
+### GET /metrics
+Exposes live AI system metrics:
+- Request volume
+- Average latency
+- Model confidence
+- Escalation rate
+- Priority distribution
+
+
 
 ## 🧠 Why This Project Matters
 This project demonstrates:
